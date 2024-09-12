@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.useNodeRuntime": true,
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "olist_sqlite",
+				"database": "${workspaceFolder:Projet 5}/olist_database.db"
+			}
+		]
+	}
+}
