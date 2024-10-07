@@ -1,0 +1,2 @@
+olist_database.db filter=lfs diff=lfs merge=lfs -text
+brazil_states.geojson filter=lfs diff=lfs merge=lfs -text

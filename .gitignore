@@ -1,5 +1,3 @@
 .venv
 cache
-olist_database.db
-brazil_states.geojson
-Avanzini_julien_5_052024.zip
+livrables/
